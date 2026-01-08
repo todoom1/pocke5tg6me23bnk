@@ -22,6 +22,9 @@ document.getElementById("t1").addEventListener("click", function() {
 document.getElementById('st').addEventListener('click', function() {
   window.location.href = "https://lejva.tprsmi.com/app/register.php?site_id=1058&topId=30500&selfPlanId=6125";
 });
+document.getElementById("jl").addEventListener("click", function() {
+  alert("君临国际将于本月底上线！");
+});
 
 document.getElementById("0").innerHTML="🔥十年信誉平台推荐";
 
@@ -41,5 +44,8 @@ document.getElementById("9").innerHTML="Top1体育";
 
 document.getElementById("11").innerHTML="胜天国际";
 
+document.getElementById("59").innerHTML="君临国际";
+
 document.getElementById("57").innerHTML="P99A.MY";
+
 
